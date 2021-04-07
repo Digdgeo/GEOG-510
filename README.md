@@ -10,3 +10,8 @@ Lections will be posted here
 ## Labs
 
 Labs assignments will be posted here
+
+## ToDo
+
+So many things...
+
