@@ -2,7 +2,7 @@
 Qiusheng Wu Online course
 
 
-This is just a test
+This is just a test or not :)
 
 ## Lectures
 
