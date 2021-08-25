@@ -6,7 +6,7 @@ This is just a test or not :)
 
 ## Lectures
 
-Lections will be posted here
+All lections will be posted here and blablabla...
 ## Labs
 
 Labs assignments will be posted here
